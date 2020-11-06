@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arise</string>
+    <string name="login_iniciarSesion">Iniciar Sesión</string>
+    <string name="login_correo">Correo</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_forgotPassword">¿Olvidaste tu contraseña?</string>
+    <string name="login_ingresar">Ingresar</string>
+    <string name="login_createAccount">Crear Cuenta</string>
+
+    <string name="createAccount_nombre">Nombre</string>
+    <string name="createAccount_repeatPassword">Repetir Contraseña</string>
+    <string name="createAccount_regresar">Regresar</string>
+    <string name="homePage_bienvenido">Bienvenido</string>
+</resources>
